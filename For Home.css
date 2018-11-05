@@ -1,0 +1,21 @@
+body {
+  background: blue ;
+}
+
+p {
+  color: rgb(255,0,0);
+}
+
+a {
+  color:firebrick;
+}
+
+h1 {
+  font-weight: bold;
+  color: darkgoldenrod
+}
+
+h2 {
+  font-weight: bold;
+  color: darkgoldenrod
+}
