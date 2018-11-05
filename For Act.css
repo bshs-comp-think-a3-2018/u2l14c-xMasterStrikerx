@@ -1,0 +1,23 @@
+body {
+  background: white;
+}
+
+p {
+  color: black;
+  font-family:cursive
+}
+
+p20 {
+  color: black;
+  font-family:cursive
+}
+
+ul {
+  color: black;
+  font-family:cursive
+}
+
+h2 {
+  font-weight: bold;
+  font-style: italic;
+}
